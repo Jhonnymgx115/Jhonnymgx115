@@ -1,6 +1,5 @@
 # 👋 Hello War! I'm Jhonny
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhonnymgx115)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/impmon_867-Gitter/)
 
@@ -48,7 +47,6 @@ When I'm not coding, you can find me on Steam! Feel free to connect and maybe we
 
 ### 📫 Let's Connect!
 I'm always interested in collaborating on innovative projects and discussing technology. Feel free to reach out through:
-- 📧 Gmail: [Contact Me](https://mail.google.com/mail/u/0/#inbox)
 - 💻 GitHub: [My Projects](https://github.com/Jhonnymgx115)
 
 ### ⚡ Fun Fact
